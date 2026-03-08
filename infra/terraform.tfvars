@@ -3,11 +3,11 @@ vpc_instance_tenancy = "default"
 vpc_name = "rithika-vpc"
 
 pub_subnet_cidr_block = ""10.0.0.0/16""
-pub_availability_zone = "ap-south-1a"
+pub_availability_zone = "eu-west-1a"
 pub_subnet_name = var.pub_subnet_name
 
 pvrt_subnet_cidr_block = "10.0.2.0/24"
-pvrt_availability_zone = "ap-south-1b"
+pvrt_availability_zone = "eu-west-1b"
 pvrt_subnet_name = "rithika-prvt-subnet"
 
 pub_rt_cidr_block = "0.0.0.0/0" 
