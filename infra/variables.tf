@@ -73,25 +73,25 @@ description = "pub key name"
 }
 
 variable "sec_group_name "{
-description = "eip name"
+description = " name"
 }
 
 
 variable "sec_group_name "{
-description = "eip name"
+description = " name"
 }
 
 
 variable "pub_instance_ami "{
-description = "eip name"
+description = " name"
 }
 
 variable " pub_instance_type"{
-description = "eip name"
+description = " name"
 }
 
 variable "associate_public_ip_address "{
-description = "eip name"
+description = " name"
 }
 
 variable "pub_instance_name"{
@@ -100,15 +100,15 @@ description = "name"
 
 
 variable "prvt_instance_ami "{
-description = "eip name"
+description = " name"
 }
 
 variable " prvt_instance_type"{
-description = "eip name"
+description = " name"
 }
 
 variable "associate_public_ip_address "{
-description = "eip name"
+description = " name"
 }
 
 variable "prvt_instance_name"{
